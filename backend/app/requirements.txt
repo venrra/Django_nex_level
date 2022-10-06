@@ -1,4 +1,6 @@
-asgiref==3.5.2
-backports.zoneinfo==0.2.1
 Django==4.1.2
-sqlparse==0.4.3
+
+django-rest-swagger==2.2.0
+drf-extensions==0.7.1
+drf-yasg==1.17.1 # https://drf-yasg.readthedocs.io: Docu: https://github.com/axnsan12/drf-yasg#installation
+pytz==2022.4
