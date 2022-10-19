@@ -2,5 +2,5 @@ Django==4.1.2
 
 django-rest-swagger==2.2.0
 drf-extensions==0.7.1
-drf-yasg==1.17.1 # https://drf-yasg.readthedocs.io: Docu: https://github.com/axnsan12/drf-yasg#installation
+drf-yasg==1.21.4 # https://drf-yasg.readthedocs.io: Docu: https://github.com/axnsan12/drf-yasg#installation
 pytz==2022.4
