@@ -50,7 +50,7 @@ INSTALLED_APPS += [
 # Our applications
 
 INSTALLED_APPS += [
-    
+    'ouruser'
 ]
 
 
